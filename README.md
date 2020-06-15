@@ -11,7 +11,11 @@ if(!file_exists('BlueStone.php')){
 }
 include 'BlueStone.php';
 ```
-### More Documention soon ...
+### More Documention :
+you can use all of the telegram Api documents ( CheckOut The exmples Folder!)
+Thanks for Using BlueStoneProto.
+
+
 # New Update About able Now !
 - [x] Server Connection For Lib
 - [x] New Methods 
